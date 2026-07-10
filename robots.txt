@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /404.html
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://onlinefinancecourse.com/sitemap.xml
+Crawl-delay: 1
