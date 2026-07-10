@@ -400,4 +400,18 @@
 </footer>
 <div class="sticky-mb"><a href="tel:+918080089898" class="smb-call">📞 Call</a><a href="/apply.html" class="smb-cta">Free counselling →</a></div>
 <script src="/assets/main.js?v=1"></script>
+
+<script>
+function filterCards(type, btn) {
+  document.querySelectorAll('.fpill').forEach(p => p.classList.remove('on'));
+  btn.classList.add('on');
+  document.querySelectorAll('[data-card]').forEach(card => {
+    if (type === 'all' || card.dataset.type === type) {
+      card.style.display = '';
+    } else {
+      card.style.display = 'none';
+    }
+  });
+}
+</script>
 </body></html>
