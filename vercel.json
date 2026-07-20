@@ -49,18 +49,5 @@
         }
       ]
     }
-  ],
-  "redirects": [
-    {
-      "source": "/((?!assets/|api/|favicon|robots|sitemap).*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.onlinefinancecourse.com"
-        }
-      ],
-      "destination": "https://onlinefinancecourse.com/:path*",
-      "permanent": true
-    }
   ]
 }
