@@ -1,43 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://onlinefinancecourse.com/</loc><priority>1.0</priority></url>
-  <url><loc>https://onlinefinancecourse.com/programs</loc><priority>0.9</priority></url>
-  <url><loc>https://onlinefinancecourse.com/compare.html</loc><priority>0.9</priority></url>
-  <url><loc>https://onlinefinancecourse.com/blog</loc><priority>0.7</priority></url>
-  <url><loc>https://onlinefinancecourse.com/apply.html</loc><priority>0.8</priority></url>
-  <url><loc>https://onlinefinancecourse.com/blog/best-finance-courses-india-2026</loc><priority>0.7</priority></url>
-  <url><loc>https://onlinefinancecourse.com/blog/iim-fintech-programs-india-2026</loc><priority>0.7</priority></url>
-  <url><loc>https://onlinefinancecourse.com/blog/investment-banking-courses-india-2026</loc><priority>0.7</priority></url>
-  <url><loc>https://onlinefinancecourse.com/privacy.html</loc><priority>0.3</priority></url>
-  <url><loc>https://onlinefinancecourse.com/disclaimer.html</loc><priority>0.3</priority></url>
   <url>
-    <loc>https://onlinefinancecourse.com/blog/best-risk-management-courses-india-2026-frm-iim-iit</loc>
-    <lastmod>2026-07-20</lastmod>
+    <loc>https://onlinefinancecourse.com/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://onlinefinancecourse.com/apply</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://onlinefinancecourse.com/compare</loc>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://onlinefinancecourse.com/programs/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://onlinefinancecourse.com/blog/best-finance-courses-india-2026</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinefinancecourse.com/blog/best-risk-management-courses-india-2026-frm-iim-iit</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinefinancecourse.com/blog/ca-vs-cfa-vs-mba-india-2026-which-is-best</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://onlinefinancecourse.com/blog/cfa-vs-iim-certificate-finance-india-2026</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://onlinefinancecourse.com/blog/cfa-vs-mba-india-which-is-better-finance-career-2026</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://onlinefinancecourse.com/blog/fintech-career-india-2026-courses-salary</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://onlinefinancecourse.com/blog/iim-banking-finance-programs-india-2026</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinefinancecourse.com/blog/iim-fintech-programs-india-2026</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinefinancecourse.com/blog/</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://onlinefinancecourse.com/blog/investment-banking-courses-india-2026</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://onlinefinancecourse.com/blog/nse-certification-guide-india-2026</loc>
+    <lastmod>2026-07-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
