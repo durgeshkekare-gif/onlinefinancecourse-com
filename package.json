@@ -1,11 +1,11 @@
 {
-  "name": "iimcertificate-in",
+  "name": "onlinefinancecourse-com",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "googleapis": "^140.0.0"
+    "googleapis": "^128.0.0"
   },
   "engines": {
-    "node": "24.x"
+    "node": "20.x"
   }
 }
