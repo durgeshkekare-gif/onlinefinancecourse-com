@@ -3,14 +3,41 @@
   "trailingSlash": false,
   "buildCommand": null,
   "outputDirectory": ".",
+  "functions": {
+    "api/lead.js": {
+      "memory": 512,
+      "maxDuration": 10
+    }
+  },
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "onlinefinancecourse.com"
+        }
+      ],
+      "destination": "https://www.onlinefinancecourse.com/$1",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     {
       "source": "/blog/:slug",
       "destination": "/blog/:slug.html"
     },
     {
+      "source": "/blog",
+      "destination": "/blog/index.html"
+    },
+    {
       "source": "/programs",
       "destination": "/programs/index.html"
+    },
+    {
+      "source": "/courses",
+      "destination": "/courses/index.html"
     }
   ],
   "headers": [
@@ -38,14 +65,6 @@
         {
           "key": "Cache-Control",
           "value": "public, max-age=0, must-revalidate"
-        },
-        {
-          "key": "X-Content-Type-Options",
-          "value": "nosniff"
-        },
-        {
-          "key": "X-Frame-Options",
-          "value": "SAMEORIGIN"
         }
       ]
     }
